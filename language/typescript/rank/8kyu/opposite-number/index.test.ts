@@ -1,7 +1,8 @@
 import oppositeNumber from './index';
 
 /**
- * @group 8kyu
+ * @group 8kyu/typescript
+ * @group typescript
  */
 describe('8kyu - Opposite Number', () => {
     it('should return 0 when given 0', () => {
