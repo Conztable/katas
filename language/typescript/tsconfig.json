@@ -1,0 +1,5 @@
+{
+  "extends": "@tsconfig/node18/tsconfig.json",
+  "include": ["rank/**/*.ts"],
+  "exclude": ["rank/**/*.test.ts"]
+}
