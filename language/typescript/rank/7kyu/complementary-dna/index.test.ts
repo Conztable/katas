@@ -1,4 +1,4 @@
-import { dnaStrand } from '.';
+import { dnaStrand } from './index.ts';
 
 /**
  * @group 7kyu/typescript

@@ -1,4 +1,4 @@
-import { getMiddle } from '.';
+import { getMiddle } from './index.ts';
 
 /**
  * @group 7kyu/typescript

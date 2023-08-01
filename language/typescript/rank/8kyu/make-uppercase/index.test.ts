@@ -1,4 +1,4 @@
-import { makeUpperCase } from '.';
+import { makeUpperCase } from './index.ts';
 
 /**
  * @group 8kyu/typescript

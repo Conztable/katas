@@ -1,4 +1,4 @@
-import { findEvenIndex } from '.';
+import { findEvenIndex } from './index.ts';
 
 /**
  * @group 6kyu/typescript

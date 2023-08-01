@@ -1,4 +1,4 @@
-import { getVowelCount } from '.';
+import { getVowelCount } from './index.ts';
 
 /**
  * @group 7kyu/typescript
